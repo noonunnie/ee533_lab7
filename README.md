@@ -27,3 +27,16 @@ Testing Tensor...
 PASS: Tensor start
 PASS: Tensor writeback
 
+decoder
+
+<img width="943" height="365" alt="image" src="https://github.com/user-attachments/assets/05547280-c600-4394-8453-cfecbf049c21" />
+PASS: ALU decode
+PASS: LD decode
+PASS: ST decode
+PASS: BF16_MUL decode
+PASS: FMA decode
+PASS: RELU decode
+PASS: TENSOR_DOT decode
+PASS: CVTA decode
+PASS: tensor_busy stall
+PASS: Field extraction
